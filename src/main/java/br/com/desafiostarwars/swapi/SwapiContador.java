@@ -1,0 +1,17 @@
+package br.com.desafiostarwars.swapi;
+
+public class SwapiContador {
+	
+	private String count;
+
+	public String getCount() {
+		return count;
+	}
+
+	public void setCount(String count) {
+		this.count = count;
+	}
+	
+	
+
+}
