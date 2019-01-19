@@ -13,7 +13,7 @@ import br.com.desafiostarwars.service.PlanetaService;
 
 @RunWith(SpringRunner.class)
 @DataMongoTest
-public class TesteRpository {
+public class TesteRepository {
 
 	@Autowired
 	private PlanetaService planetaService;
