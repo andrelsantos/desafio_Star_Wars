@@ -17,3 +17,4 @@ GET /api/planeta/{id}
 
 5-REMOVER PLANETA
 DELETE /api/planeta/{id}
+
